@@ -1,0 +1,62 @@
+[0m[[0m[33mwarn[0m] [0m[0mC:\Users\natsh\OneDrive\Documents\GitHub\Big-Data-Project1\src\main\scala\P1\project1.scala:148:22: This catches all Throwables. If this is really intended, use `case ex : Throwable` to clear this warning.[0m
+[0m[[0m[33mwarn[0m] [0m[0m                case ex => {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                     ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mC:\Users\natsh\OneDrive\Documents\GitHub\Big-Data-Project1\src\main\scala\P1\project1.scala:139:18: This catches all Throwables. If this is really intended, use `case ex : Throwable` to clear this warning.[0m
+[0m[[0m[33mwarn[0m] [0m[0m            case ex => {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                 ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mC:\Users\natsh\OneDrive\Documents\GitHub\Big-Data-Project1\src\main\scala\P1\project1.scala:227:22: This catches all Throwables. If this is really intended, use `case ex : Throwable` to clear this warning.[0m
+[0m[[0m[33mwarn[0m] [0m[0m                case ex => {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                     ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mC:\Users\natsh\OneDrive\Documents\GitHub\Big-Data-Project1\src\main\scala\P1\project1.scala:218:18: This catches all Throwables. If this is really intended, use `case ex : Throwable` to clear this warning.[0m
+[0m[[0m[33mwarn[0m] [0m[0m            case ex => {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                 ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mC:\Users\natsh\OneDrive\Documents\GitHub\Big-Data-Project1\src\main\scala\P1\project1.scala:345:22: This catches all Throwables. If this is really intended, use `case ex : Throwable` to clear this warning.[0m
+[0m[[0m[33mwarn[0m] [0m[0m                case ex => {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                     ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mC:\Users\natsh\OneDrive\Documents\GitHub\Big-Data-Project1\src\main\scala\P1\project1.scala:336:18: This catches all Throwables. If this is really intended, use `case ex : Throwable` to clear this warning.[0m
+[0m[[0m[33mwarn[0m] [0m[0m            case ex => {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                 ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mC:\Users\natsh\OneDrive\Documents\GitHub\Big-Data-Project1\src\main\scala\P1\project1.scala:416:22: This catches all Throwables. If this is really intended, use `case ex : Throwable` to clear this warning.[0m
+[0m[[0m[33mwarn[0m] [0m[0m                case ex => {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                     ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mC:\Users\natsh\OneDrive\Documents\GitHub\Big-Data-Project1\src\main\scala\P1\project1.scala:407:18: This catches all Throwables. If this is really intended, use `case ex : Throwable` to clear this warning.[0m
+[0m[[0m[33mwarn[0m] [0m[0m            case ex => {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                 ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mC:\Users\natsh\OneDrive\Documents\GitHub\Big-Data-Project1\src\main\scala\P1\project1.scala:467:22: This catches all Throwables. If this is really intended, use `case ex : Throwable` to clear this warning.[0m
+[0m[[0m[33mwarn[0m] [0m[0m                case ex => {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                     ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mC:\Users\natsh\OneDrive\Documents\GitHub\Big-Data-Project1\src\main\scala\P1\project1.scala:458:18: This catches all Throwables. If this is really intended, use `case ex : Throwable` to clear this warning.[0m
+[0m[[0m[33mwarn[0m] [0m[0m            case ex => {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                 ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mC:\Users\natsh\OneDrive\Documents\GitHub\Big-Data-Project1\src\main\scala\P1\project1.scala:591:22: This catches all Throwables. If this is really intended, use `case ex : Throwable` to clear this warning.[0m
+[0m[[0m[33mwarn[0m] [0m[0m                case ex => {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                     ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mC:\Users\natsh\OneDrive\Documents\GitHub\Big-Data-Project1\src\main\scala\P1\project1.scala:582:18: This catches all Throwables. If this is really intended, use `case ex : Throwable` to clear this warning.[0m
+[0m[[0m[33mwarn[0m] [0m[0m            case ex => {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                 ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mC:\Users\natsh\OneDrive\Documents\GitHub\Big-Data-Project1\src\main\scala\P1\project1.scala:639:24: a pure expression does nothing in statement position; you may be omitting necessary parentheses[0m
+[0m[[0m[33mwarn[0m] [0m[0m                return true[0m
+[0m[[0m[33mwarn[0m] [0m[0m                       ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mC:\Users\natsh\OneDrive\Documents\GitHub\Big-Data-Project1\src\main\scala\P1\project1.scala:639:17: enclosing method deleteUser has result type Unit: return value discarded[0m
+[0m[[0m[33mwarn[0m] [0m[0m                return true[0m
+[0m[[0m[33mwarn[0m] [0m[0m                ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mC:\Users\natsh\OneDrive\Documents\GitHub\Big-Data-Project1\src\main\scala\P1\project1.scala:643:24: a pure expression does nothing in statement position; you may be omitting necessary parentheses[0m
+[0m[[0m[33mwarn[0m] [0m[0m                return false[0m
+[0m[[0m[33mwarn[0m] [0m[0m                       ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mC:\Users\natsh\OneDrive\Documents\GitHub\Big-Data-Project1\src\main\scala\P1\project1.scala:643:17: enclosing method deleteUser has result type Unit: return value discarded[0m
+[0m[[0m[33mwarn[0m] [0m[0m                return false[0m
+[0m[[0m[33mwarn[0m] [0m[0m                ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mC:\Users\natsh\OneDrive\Documents\GitHub\Big-Data-Project1\src\main\scala\P1\project1.scala:656:22: This catches all Throwables. If this is really intended, use `case ex : Throwable` to clear this warning.[0m
+[0m[[0m[33mwarn[0m] [0m[0m                case ex => {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                     ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mC:\Users\natsh\OneDrive\Documents\GitHub\Big-Data-Project1\src\main\scala\P1\project1.scala:647:18: This catches all Throwables. If this is really intended, use `case ex : Throwable` to clear this warning.[0m
+[0m[[0m[33mwarn[0m] [0m[0m            case ex => {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                 ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mC:\Users\natsh\OneDrive\Documents\GitHub\Big-Data-Project1\src\main\scala\P1\project1.scala:731:22: This catches all Throwables. If this is really intended, use `case ex : Throwable` to clear this warning.[0m
+[0m[[0m[33mwarn[0m] [0m[0m                case ex => {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                     ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mC:\Users\natsh\OneDrive\Documents\GitHub\Big-Data-Project1\src\main\scala\P1\project1.scala:722:18: This catches all Throwables. If this is really intended, use `case ex : Throwable` to clear this warning.[0m
+[0m[[0m[33mwarn[0m] [0m[0m            case ex => {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                 ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mthere were 21 deprecation warnings; re-run with -deprecation for details[0m
+[0m[[0m[33mwarn[0m] [0m[0m21 warnings found[0m
