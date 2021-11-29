@@ -1,4 +1,4 @@
-# Big-Data-Project1
+# Scala - Hive: Real time news analyzer
 
 ## Project Description
 
